@@ -1,11 +1,11 @@
 # University Work Repositories
 ## DISCLAIMER
-**ANY COURSEWORK OR PRIVATE FILES INCLUDED HERE ARE EXPIRED. I AM NOT SHARING ANY COURSEWORK FILES WHOSE DEADLINES ARE YET TO PASS**
+**ANY COURSEWORK OR PRIVATE FILES INCLUDED HERE ARE EXPIRED. I AM NOT SHARING ANY COURSEWORK FILES WHOSE DEADLINES ARE YET TO PASS.**
 ## Overview
 This repository is used to annotate and list all my University work.
 
 ## Related Repositories
-Keep in mind, not all courses warranted full GitHub repositories or did not allow for publishing of coursework at all, and as such I have no trace of them whatsover online.
+Keep in mind, not all courses warranted full GitHub repositories or did not allow for publishing of coursework at all, and as such I have no trace of them online.
 
 ### Year 2
 
