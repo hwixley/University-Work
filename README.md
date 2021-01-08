@@ -16,8 +16,7 @@ Related Course Name| Repository | Description |
 Informatics 2B - Learning | [Coursework 2: Data Manipulation, Modelling, Representation and Analysis (MatLab)](https://github.com/hwixley/Inf2B-Coursework2) | Course syllabus:<ul><li>Statistical pattern recognition and machine learning</li><li>Multidimensional data</li><li>Discrete data and Naive Bayes</li><li>Modelling and describing continuous data: nearest neighbours and clustering</li><li>Gaussians and linear discriminants</li><li>Single and multi-layer neural networks</li></ul>
 Informatics 2D - Reasoning & Agents| [Coursework 1: Tree Traversal Algorithms (Haskell)](https://github.com/hwixley/Inf2D-Coursework1) <br> <br> [Coursework 2: Implementation of a Travelling Agent (PPDL)](https://github.com/hwixley/Inf2D-Coursework2) | Course syllabus: <ul><li>Intelligent Agents</li><li>Search based planning (A*, Depth/Breadth-first etc) with Haskell implementations</li><li>FOL and Logical knowledge representations</li><li>Acting in uncertain environments</li></ul>
 Introduction to Algorithms and Data Structures | [Coursework 3: The Travelling Salesman Problem (Python)](https://github.com/hwixley/IADS-Coursework3) | Course syllabus:<ul><li>Asymptotic notation and algorithmic analysis</li><li>Sequential data structures (lists, stacks, queues)</li><li>Basic and more advanced sorting algorithms</li><li>Tree data structures, heaps and priority queues</li><li>Hashing and dictionaries</li><li>Graphs and graph algorithms</li><li>Dynamic programming</li><li>The classes P and NP</li><li>Implementations of certain algorithms from the course and formal proofs</li></ul>
-**YEAR 3**
--- |
+**YEAR 3** | < | < |
 
 ### Year 3
 
