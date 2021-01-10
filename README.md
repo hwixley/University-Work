@@ -2,7 +2,7 @@
 ## DISCLAIMER
 **ANY COURSEWORK OR PRIVATE FILES INCLUDED HERE ARE EXPIRED. I AM NOT SHARING ANY COURSEWORK FILES WHOSE DEADLINES ARE YET TO PASS OR WERE NOT WARRANTED FOR PUBLICATION.**
 ## Overview
-This repository is used to annotate and list all my University work.
+This repository is used to annotate and list all my University courses along with their respective courseworks.
 
 ### Year 2
 
